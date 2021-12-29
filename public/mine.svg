@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="mine.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.5866667"
+     inkscape:cx="153.78151"
+     inkscape:cy="164.4958"
+     inkscape:window-width="1356"
+     inkscape:window-height="698"
+     inkscape:window-x="5"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path70425"
+       style="fill:#ff0000;stroke-width:1.21358"
+       d="m 97.159037,207.46589 c 10.538583,-7.37873 18.089163,-18.60553 20.244713,-31.36146 a 34.0394,34.946165 70.67009 0 0 2.25047,-1.40485 34.0394,34.946165 70.67009 0 0 9.22075,-47.56966 34.0394,34.946165 70.67009 0 0 -48.41094,-8.25518 34.0394,34.946165 70.67009 0 0 -5.910338,5.18605 c -1.498137,-0.0183 -3.010997,0.0425 -4.536605,0.18747 -21.423294,2.03658 -38.634748,20.94832 -36.339479,42.43147 l 18.706459,-0.47077 c -1.811223,-9.62829 4.327129,-18.51156 13.028986,-22.08676 a 34.0394,34.946165 70.67009 0 0 4.109399,19.44784 c -0.223416,1.05956 0.03009,2.0481 1.284935,2.14973 a 34.0394,34.946165 70.67009 0 0 0.01573,0.0252 l -18.439065,0.46404 c 1.611808,8.56821 10.044401,15.48363 19.06484,13.35818 3.071694,-0.72376 5.875452,-2.6537 7.634625,-5.19484 a 34.0394,34.946165 70.67009 0 0 17.423348,6.42306 c -4.502347,9.18342 -13.824097,15.97406 -24.580389,17.2119 -19.24393,2.21464 -36.260837,-12.71992 -38.248873,-31.32747 l -18.705166,0.46989 c 2.286979,28.65083 27.992135,51.72157 57.431609,49.29764 9.115399,-0.75052 17.617682,-3.98409 24.754986,-8.98136 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75.9749px;line-height:1.25;font-family:'RobotoMono Nerd Font';-inkscape-font-specification:'RobotoMono Nerd Font Bold';stroke-width:1.42452"
+       x="74.502586"
+       y="170.72345"
+       id="text1310"
+       transform="scale(0.99717544,1.0028326)"
+       inkscape:export-filename="/home/nafl-ha/LineageOS/Framework/nextjs-blog/public/mine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1308"
+         x="74.502586"
+         y="170.72345"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Medium';stroke-width:1.42452"><tspan
+   style="fill:#ffffff"
+   id="tspan72983">N</tspan>flhha</tspan><tspan
+         sodipodi:role="line"
+         x="74.502586"
+         y="265.69208"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'RobotoMono Nerd Font';-inkscape-font-specification:'RobotoMono Nerd Font Bold';stroke-width:1.42452"
+         id="tspan10216" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:sans-serif"
+       x="125.70189"
+       y="65.723801"
+       id="text40394"><tspan
+         sodipodi:role="line"
+         id="tspan40392"
+         x="125.70189"
+         y="65.723801" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:'JetBrainsMonoMedium NF';-inkscape-font-specification:'JetBrainsMonoMedium NF'"
+       x="-45.006187"
+       y="151.66554"
+       id="text66067"><tspan
+         sodipodi:role="line"
+         id="tspan66065"
+         x="-45.006187"
+         y="151.66554" /></text>
+  </g>
+</svg>
