@@ -13,7 +13,31 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs8" />
+     id="defs8">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter5565"
+       x="-0.077115222"
+       y="-0.38266627"
+       width="1.1542304"
+       height="1.7653325">
+      <feGaussianBlur
+         stdDeviation="4.4127123"
+         result="fbSourceGraphic"
+         id="feGaussianBlur5563" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5585" />
+      <feGaussianBlur
+         id="feGaussianBlur5587"
+         stdDeviation="3.78 3.37"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="namedview6"
      pagecolor="#ffffff"
@@ -26,13 +50,13 @@
      inkscape:snap-nodes="false"
      inkscape:snap-global="false"
      inkscape:zoom="1.5216538"
-     inkscape:cx="59.803353"
-     inkscape:cy="62.432072"
-     inkscape:window-width="1356"
-     inkscape:window-height="698"
+     inkscape:cx="77.547206"
+     inkscape:cy="44.35963"
+     inkscape:window-width="1354"
+     inkscape:window-height="695"
      inkscape:window-x="5"
      inkscape:window-y="35"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <text
      xml:space="preserve"
@@ -45,7 +69,17 @@
        id="tspan1885"
        x="9.5348787"
        y="56.465065"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'RobotoMono Nerd Font';-inkscape-font-specification:'RobotoMono Nerd Font Bold';stroke-width:1.20862"><tspan
-   style="fill:#0271f3;fill-opacity:1;stroke-width:1.20862"
-   id="tspan12307">N</tspan>afllha</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'RobotoMono Nerd Font';-inkscape-font-specification:'RobotoMono Nerd Font Bold';fill:#ffffff;stroke-width:1.20862">Nafllha</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:64.4598px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:1.20862"
+     x="8.1453972"
+     y="55.656998"
+     id="text1887-3"
+     transform="scale(0.98520906,1.015013)"><tspan
+       sodipodi:role="line"
+       id="tspan1885-6"
+       x="8.1453972"
+       y="55.656998"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'RobotoMono Nerd Font';-inkscape-font-specification:'RobotoMono Nerd Font Medium';fill:#ffffff;fill-opacity:1;stroke-width:1.20862">Nafllha</tspan></text>
 </svg>
