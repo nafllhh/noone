@@ -22,7 +22,6 @@ export default function Layout(props) {
     16} />
           </span>
             &nbsp; and <font className={styles.next}>&nbsp;Next.js</font> 
-            <span>Copyright naufal</span>
         </a>
     <br/>
       </footer>
