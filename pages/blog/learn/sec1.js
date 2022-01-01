@@ -41,10 +41,10 @@ export default function why() {
               <a className={styles.sec_active}>sec1</a>
              </Link>
             <Link href="/blog/learn/sec2">
-              <a>sec2</a>
+              <a className={styles.sec_inactive} >sec2</a>
              </Link>
-            <Link href="/blog/learn/sec3">
-              <a>sec3</a>
+            <Link  href="/blog/learn/sec3">
+              <a className={styles.sec_inactive}>sec3</a>
              </Link>
             </span>
         
