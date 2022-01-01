@@ -10,7 +10,7 @@ export default function why() {
     <div className={styles.container}>
     <div className={styles.topnav}>
           <a href="/" >Home</a>
-          <a href="/blog/learn2" className={styles.active} >Post</a>
+          <a href="/blog/learn/sec1" className={styles.active} >Post</a>
           <a href="#">Project</a>
           <img className={styles.logo_me} src="/vercel2.svg"></img>
     </div>
@@ -33,7 +33,7 @@ export default function why() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
             
-      <main className={styles.main}>
+      <main id={styles.main} className={styles.main}>
       <div className={styles.side_nav}>
         <span className={styles.section}>
           {' '}{' '}{' '}

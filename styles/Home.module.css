@@ -12,6 +12,9 @@
   align-items: center;
  /* font-family: 'Inter', sans-serif;  */
 }
+#main{
+  margin-left: 20%;
+}
 font.next{
   font-weight: bold;
   color: #0070f3;
@@ -89,6 +92,7 @@ box-shadow:rgba(0, 118, 255, 0.40) 0px 2px 6px 0px;
   /* border-top: 1px solid #eaeaea; */
   height: 100%;
   width:  20%;
+  /* margin-right: 20%; */
   /* background: #F3F3F3; */
   /* border-radius: 10px; */
 }
@@ -299,6 +303,10 @@ a.sec_inactive {
   /* border-radius: 0px 0px 10px 10px; */
 
 
+}
+#main {
+
+  margin-left: 0%;
 }
   img.hero{
     width: 150px;

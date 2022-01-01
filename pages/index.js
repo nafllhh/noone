@@ -11,7 +11,7 @@ export default function Home() {
             <Link href="/">
               <a className={styles.active}>Home</a>
              </Link>
-            <Link href="/blog/learn2">
+            <Link href="/blog/learn/sec1">
               <a>Post</a>
              </Link>
           <a href="#">Project</a>
