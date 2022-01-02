@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '/styles/Home.module.css'
 export default function Layout(props) {
   return (
-    <div>
+    <div className={styles.bg_home}>
         <Head>
           <title>{props.title}</title>
     </Head>
@@ -18,8 +18,7 @@ export default function Layout(props) {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={
-    16} />
+            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
             &nbsp; and <font className={styles.next}>&nbsp;Next.js</font> 
         </a>

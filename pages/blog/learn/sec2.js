@@ -38,13 +38,13 @@ export default function why() {
         <span className={styles.section}>
           {' '}{' '}{' '}
             <Link href="/blog/learn/sec1">
-              <a className={styles.sec_inactive} >sec1</a>
+              <a className={styles.sec_inactive} >Getting started</a>
              </Link>
             <Link href="/blog/learn/sec2">
-              <a className={styles.sec_active}>sec2</a>
+              <a className={styles.sec_active}>Section 2</a>
              </Link>
             <Link  href="/blog/learn/sec3">
-              <a className={styles.sec_inactive} >sec3</a>
+              <a className={styles.sec_inactive} >Section 3</a>
              </Link>
             </span>
     </div>

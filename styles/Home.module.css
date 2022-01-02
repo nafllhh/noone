@@ -1,7 +1,12 @@
 .container {
   padding: 0 2rem;
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+.bg_home{
+  
+
+}
 .main {
   min-height: 100vh;
   padding: 4rem 0;
@@ -111,7 +116,7 @@ span.section > a{
    /* padding-left: 35px; */
   /* background-color: rgba(0, 112, 243, 0.1);  */
   border-radius: 5px 5px 5px 5px;
-  padding: 10px 20px;
+  padding: 5px 20px;
   margin: 5px 10px 5px 0px;
 }
 a.sec_inactive {
@@ -313,3 +318,4 @@ a.sec_inactive {
     margin-bottom: 20px;
   }
 }
+
