@@ -4,16 +4,17 @@ import Image from 'next/image'
 import styles from '../../../styles/Home.module.css'
 import Link from 'next/link'
 import Layout from '../../../components/Layout'
+
 export default function why() {
   return (
     <Layout title="Section 1">
-    <div className={styles.container}>
     <div className={styles.topnav}>
           <a href="/" >Home</a>
           <a href="/blog/learn/sec1" className={styles.active} >Post</a>
           <a href="#">Project</a>
           <img className={styles.logo_me} src="/vercel2.svg"></img>
     </div>
+    <div className={styles.container}>
     <div className={styles.topside_nav}>
         <span className={styles.topSection}>
           {' '}{' '}{' '}
@@ -38,7 +39,7 @@ export default function why() {
         <span className={styles.section}>
           {' '}{' '}{' '}
             <Link href="/blog/learn/sec1">
-              <a className={styles.sec_active}>Getting started</a>
+              <a className={styles.sec_active}>Getting started </a>
              </Link>
             <Link href="/blog/learn/sec2">
               <a className={styles.sec_inactive} >Section 2</a>
